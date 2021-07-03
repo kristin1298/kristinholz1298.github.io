@@ -5,7 +5,6 @@
   --chetwode-blue: #7a7cf2;
   --cornflower: #a1d0f9;
   --fiord: #3f4d63;
-  --gallery: #f0f0f0;
   --log-cabin: #222222;
   --mabel: #d7edff;
   --masala: #3c3c3c;
@@ -212,7 +211,4 @@
 }
 .border-1px-white {
   border: 1px solid var(--white);
-}
-.border-1px-gallery {
-  border: 1px solid var(--gallery);
 }

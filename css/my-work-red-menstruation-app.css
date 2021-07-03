@@ -1017,6 +1017,7 @@ transform: scale(1.1);
 }
 .my-work-red-menstruation-app .rechteck-1473-SWQUiG {
   background-color: transparent;
+  border: 1px solid #f0f0f0;
   border-radius: 34px;
   box-shadow: 12px 30px 25px #4444441a;
   height: 812px;
@@ -1036,6 +1037,7 @@ transform: scale(1.1);
 }
 .my-work-red-menstruation-app .rechteck-1687-s5iENH {
   background-color: var(--white);
+  border: 1px solid #f0f0f0;
   border-radius: 23px;
   bottom: calc(49.43% - 306px);
   box-shadow: 12px 30px 25px #4444441a;
@@ -1044,24 +1046,6 @@ transform: scale(1.1);
   right: calc(39.05% - 111px);
   transform: rotate(47.00deg);
   width: 284px;
-}
-.my-work-red-menstruation-app .rechteck-1692-SWQUiG {
-  background-color: transparent;
-  border-radius: 34px;
-  height: 812px;
-  left: 476px;
-  overflow: hidden;
-  position: absolute;
-  top: 2940px;
-  width: 375px;
-}
-.my-work-red-menstruation-app .rechteck-1692-SWQUiG img {
-  object-fit: cover;
-}
-.my-work-red-menstruation-app .rechteck-1692-SWQUiG video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
 }
 .my-work-red-menstruation-app .red-SWQUiG {
   background-color: transparent;
