@@ -1,0 +1,234 @@
+/* screen - contact-me */
+
+.contact-me {
+  background-color: var(--white);
+  display: block;
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
+}
+.contact-me .about-me-UbIkoM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.contact-me .contact-me-UbIkoM {
+  background-color: transparent;
+  color: #9799f2;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.contact-me .contact-me-xV9Txm {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 113px;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+.contact-me .gruppe-1297-UbIkoM {
+  background-color: transparent;
+  height: 50px;
+  left: 150px;
+  position: absolute;
+  top: 771px;
+  width: 322px;
+}
+.contact-me .gruppe-1298-UbIkoM {
+  background-color: transparent;
+  height: 43px;
+  left: 562px;
+  position: absolute;
+  top: 775px;
+  width: 435px;
+}
+.contact-me .gruppe-809-6VFsu8 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 43px;
+}
+.contact-me .home-UbIkoM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.contact-me .i-would-be-happ-llowing-options-UbIkoM {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: left;
+  top: 536px;
+  white-space: nowrap;
+  width: auto;
+}
+.contact-me .kristinholz1298gmailcom-6VFsu8 {
+  background-color: transparent;
+  height: calc(100.00% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 332px;
+}
+.contact-me .linie-494-vlsEue {
+  background-color: transparent;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.60% - 1px);
+  top: calc(36.49% - 7px);
+  width: 3px;
+}
+.contact-me .linie-5-rYXJz6 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.70% - 7px);
+  width: 14px;
+}
+.contact-me .linie-585-UbIkoM {
+  background-color: transparent;
+  height: 3px;
+  left: 774px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 138px;
+}
+.contact-me .my-work-UbIkoM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 562px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.contact-me .pfad-1073-vlsEue {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+.contact-me .pfad-43-rYXJz6 {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+.contact-me .rechteck-1685-UbIkoM {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.contact-me .smartphone-zjIx4f {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.contact-me .x49-176-846-981-18-zjIx4f {
+  background-color: transparent;
+  bottom: calc(43.76% - 15px);
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 232px;
+}
+.contact-me .x51916-UbIkoM {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1590px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.contact-me .x61109-UbIkoM {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1710px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.contact-me.animate-enter3 {
+  animation: animate-enter3-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+@keyframes animate-enter3-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}

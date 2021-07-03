@@ -1,0 +1,231 @@
+/* screen - home */
+
+.home {
+  background-color: var(--white);
+  display: block;
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
+}
+.home .about-me-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .contact-me-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .designerin-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 362px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 837px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .gruppe-1245-xl4bh6 {
+  background-color: transparent;
+  height: 330px;
+  left: 150px;
+  position: absolute;
+  top: 375px;
+  width: 534px;
+}
+.home .gruppe-1292-xl4bh6 {
+  background-color: transparent;
+  height: 1111px;
+  left: 1048px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1085px;
+}
+.home .home-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .im-0Ztozm {
+  background-color: transparent;
+  bottom: -2px;
+  height: 137px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 113px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 150px;
+}
+.home .kristin-0Ztozm {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--chetwode-blue);
+  font-family: var(--font-family-roboto);
+  font-size: 113px;
+  font-style: normal;
+  font-weight: 500;
+  height: 137px;
+  letter-spacing: 0.00px;
+  line-height: 113px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 329px;
+}
+.home .linie-585-xl4bh6 {
+  background-color: transparent;
+  height: 3px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 74px;
+}
+.home .my-work-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 562px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .rechteck-1685-xl4bh6 {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.home .span0-dz4WjD {
+
+}
+.home .span0-to11Jx {
+
+}
+.home .span1-dz4WjD {
+
+}
+.home .span1-to11Jx {
+
+}
+.home .span2-dz4WjD {
+
+}
+.home .span2-to11Jx {
+
+}
+.home .span3-dz4WjD {
+
+}
+.home .span3-to11Jx {
+
+}
+.home .title-0Ztozm {
+  background-color: transparent;
+  height: 137px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 113px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 297px;
+}
+.home .user-experience-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 362px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 777px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .user-interface-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 362px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 717px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .x51916-xl4bh6 {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1590px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.home .x61109-xl4bh6 {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1710px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.home.animate-enter {
+  animation: animate-enter-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}

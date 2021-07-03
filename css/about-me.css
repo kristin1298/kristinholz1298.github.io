@@ -1,0 +1,226 @@
+/* screen - about-me */
+
+.about-me {
+  background-color: var(--white);
+  display: block;
+  height: 2161px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
+}
+.about-me .about-me-MuKjWR {
+  background-color: transparent;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .about-me-yQoGRU {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 113px;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .bild2-ARfKr8 {
+  background-color: transparent;
+  height: calc(100.00% - 79px);
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: calc(100.00% - 56px);
+}
+.about-me .contact-me-MuKjWR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .dsc0523-ARfKr8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.about-me .gruppe-1292-MuKjWR {
+  background-color: transparent;
+  height: 1161px;
+  left: 1145px;
+  position: absolute;
+  top: -80px;
+  width: 1090px;
+}
+.about-me .gruppe-1293-MuKjWR {
+  background-color: transparent;
+  height: 1045px;
+  left: -258px;
+  position: absolute;
+  top: 1208px;
+  width: 1021px;
+}
+.about-me .home-MuKjWR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .linie-585-MuKjWR {
+  background-color: transparent;
+  height: 3px;
+  left: 334px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 116px;
+}
+.about-me .lorem-ipsum-dol-no-sea-takimata-MuKjWR {
+  background-color: transparent;
+  height: auto;
+  left: 960px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: left;
+  top: 1522px;
+  width: 743px;
+}
+.about-me .my-goal-is-to-m-tter-experience-MuKjWR {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 530px;
+  width: 430px;
+}
+.about-me .my-story-MuKjWR {
+  background-color: transparent;
+  height: auto;
+  left: 960px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1417px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .my-work-MuKjWR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 562px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .profilbild-Aibiqp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.about-me .profilbild-FsllXi {
+  background-color: transparent;
+  height: calc(100.00% - 83px);
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: calc(100.00% - 81px);
+}
+.about-me .rechteck-1686-MuKjWR {
+  background-color: transparent;
+  height: 2161px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.about-me .span0-TeUdeS {
+
+}
+.about-me .span1-TeUdeS {
+
+}
+.about-me .span2-TeUdeS {
+
+}
+.about-me .span3-TeUdeS {
+
+}
+.about-me .span4-TeUdeS {
+
+}
+.about-me .x51916-MuKjWR {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1590px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.about-me .x61109-MuKjWR {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1710px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.about-me.animate-enter1 {
+  animation: animate-enter1-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+@keyframes animate-enter1-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}

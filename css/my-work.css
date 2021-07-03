@@ -1,0 +1,599 @@
+/* screen - my-work */
+
+.my-work {
+  background-color: var(--white);
+  display: block;
+  height: 6713px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
+}
+.my-work .about-me-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .aro-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 4792px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .assistant-rescu-course-inter-ac-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 4906px;
+  width: 491px;
+}
+.my-work .contact-me-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .digital-waitingroom-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 3680px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .get-an-overview-sis-ui-ux-guide-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 535px;
+  width: 570px;
+}
+.my-work .go-to-the-project-12fhS3 {
+  background-color: transparent;
+  bottom: 10.53%;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+.my-work .go-to-the-project-PFyP1B {
+  background-color: transparent;
+  bottom: 10.53%;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+.my-work .go-to-the-project-YYiUEx {
+  background-color: transparent;
+  bottom: 10.53%;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+.my-work .go-to-the-project-cXFm00 {
+  background-color: transparent;
+  bottom: 10.53%;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+.my-work .go-to-the-project-xr65ZH {
+  background-color: transparent;
+  bottom: 10.53%;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+.my-work .gruppe-1244-QlwNwD {
+  background-color: transparent;
+  height: 1737px;
+  left: -534px;
+  object-fit: cover;
+  position: absolute;
+  top: 763px;
+  width: 1780px;
+}
+.my-work .gruppe-1254-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 150px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2867px;
+  transition: all 0.4s ease-in-out;
+  width: 148px;
+}
+.my-work .gruppe-1254-QlwNwD:hover {
+
+transform: scale(1.1);
+}
+.my-work .gruppe-1255-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 1254px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4021px;
+  transition: all 0.4s ease-in-out;
+  width: 148px;
+}
+.my-work .gruppe-1255-QlwNwD:hover {
+
+transform: scale(1.1);
+}
+.my-work .gruppe-1260-12fhS3 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 17px;
+}
+.my-work .gruppe-1260-PFyP1B {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 17px;
+}
+.my-work .gruppe-1260-YYiUEx {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 17px;
+}
+.my-work .gruppe-1260-cXFm00 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 17px;
+}
+.my-work .gruppe-1260-xr65ZH {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 17px;
+}
+.my-work .gruppe-1261-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 1254px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1752px;
+  transition: all 0.4s ease-in-out;
+  width: 148px;
+}
+.my-work .gruppe-1261-QlwNwD:hover {
+
+transform: scale(1.1);
+}
+.my-work .gruppe-1262-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 150px;
+  pointer-events: auto;
+  position: absolute;
+  top: 5157px;
+  transition: all 0.4s ease-in-out;
+  width: 148px;
+}
+.my-work .gruppe-1262-QlwNwD:hover {
+
+transform: scale(1.1);
+}
+.my-work .gruppe-1263-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 1254px;
+  pointer-events: auto;
+  position: absolute;
+  top: 6246px;
+  transition: all 0.4s ease-in-out;
+  width: 148px;
+}
+.my-work .gruppe-1263-QlwNwD:hover {
+
+transform: scale(1.1);
+}
+.my-work .gruppe-1283-QlwNwD {
+  background-color: transparent;
+  height: 86px;
+  left: 1191px;
+  object-fit: cover;
+  position: absolute;
+  top: 751px;
+  width: 258px;
+}
+.my-work .gruppe-173-QlwNwD {
+  background-color: transparent;
+  height: 71px;
+  left: 1512px;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 258px;
+}
+.my-work .gruppe-47-QlwNwD {
+  background-color: transparent;
+  height: 52px;
+  left: 1191px;
+  position: absolute;
+  top: 541px;
+  width: 258px;
+}
+.my-work .gruppe-maskieren-158-QlwNwD {
+  background-color: transparent;
+  height: 1680px;
+  left: 689px;
+  object-fit: cover;
+  position: absolute;
+  top: 1936px;
+  width: 1737px;
+}
+.my-work .gruppe-maskieren-159-QlwNwD {
+  background-color: transparent;
+  height: 1730px;
+  left: -528px;
+  object-fit: cover;
+  position: absolute;
+  top: 3061px;
+  width: 1773px;
+}
+.my-work .gruppe-maskieren-160-QlwNwD {
+  background-color: transparent;
+  height: 1722px;
+  left: 667px;
+  object-fit: cover;
+  position: absolute;
+  top: 4181px;
+  width: 1765px;
+}
+.my-work .gruppe-maskieren-162-QlwNwD {
+  background-color: transparent;
+  height: 1724px;
+  left: -522px;
+  object-fit: cover;
+  position: absolute;
+  top: 5325px;
+  width: 1767px;
+}
+.my-work .home-QlwNwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .january-2020-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 5892px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .july-2020-DeSr9b {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 4755px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .july-2020-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 3643px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .juni-2020-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 2489px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .linie-585-QlwNwD {
+  background-color: transparent;
+  height: 3px;
+  left: 561px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 101px;
+}
+.my-work .logo-DeSr9b {
+  background-color: transparent;
+  height: 43px;
+  left: 1191px;
+  object-fit: cover;
+  position: absolute;
+  top: 297px;
+  width: 258px;
+}
+.my-work .logo-QlwNwD {
+  background-color: transparent;
+  height: 119px;
+  left: 1512px;
+  object-fit: cover;
+  position: absolute;
+  top: 632px;
+  width: 258px;
+}
+.my-work .may-2021-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1326px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .me-oclock-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2526px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .me-oclock-is-an-you-always-have-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2640px;
+  width: 525px;
+}
+.my-work .my-work-DeSr9b {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 113px;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .my-work-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 562px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .pfad-52-lr4V6H {
+  background-color: transparent;
+  bottom: 0px;
+  height: 24px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.my-work .pfad-53-lr4V6H {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.my-work .rechteck-1688-QlwNwD {
+  background: linear-gradient(344.47deg, rgba(255, 255, 255, 0.8) 29.52%, rgba(228, 229, 236, 0.8) 100%);
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.my-work .red-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 5929px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .red-is-an-app-t-includes-the-se-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 6043px;
+  width: 502px;
+}
+.my-work .the-digital-wai-in-time-of-his-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 3794px;
+  width: 479px;
+}
+.my-work .the-ui-ux-guide-with-an-optimal-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1477px;
+  width: 502px;
+}
+.my-work .ui-ux-guide-QlwNwD {
+  background-color: transparent;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1363px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work .x51916-QlwNwD {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1590px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.my-work .x61109-QlwNwD {
+  background-color: transparent;
+  border-radius: 14px;
+  cursor: pointer;
+  height: 60px;
+  left: 1710px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 60px;
+}
+.my-work.animate-enter2 {
+  animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+@keyframes animate-enter2-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}

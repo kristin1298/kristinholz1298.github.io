@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/about-me.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="about-me" />
+    <div class="container-center-horizontal">
+      <div class="about-me animate-enter1 screen" show-on-scroll>
+        <img class="rechteck-1686-MuKjWR" src="img/rechteck-1686@1x.png" />
+        <div class="lorem-ipsum-dol-no-sea-takimata-MuKjWR roboto-normal-log-cabin-26px">
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+          consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+          sed diam voluptua.
+        </div>
+        <a href="contact-me.html"><div class="contact-me-MuKjWR roboto-normal-log-cabin-26px">Contact me</div></a
+        ><a href="home.html"><div class="home-MuKjWR roboto-normal-log-cabin-26px">Home</div></a>
+        <div class="about-me-MuKjWR roboto-normal-chetwode-blue-26px">About me</div>
+        <a href="my-work.html"><div class="my-work-MuKjWR roboto-normal-log-cabin-26px">My work</div></a>
+        <div class="my-story-MuKjWR roboto-medium-log-cabin-50px">My Story</div>
+        <div class="gruppe-1293-MuKjWR">
+          <img class="profilbild-FsllXi" src="img/profilbild@1x.png" /><img
+            class="profilbild-Aibiqp"
+            src="img/profilbild-1@1x.png"
+          />
+        </div>
+        <div class="gruppe-1292-MuKjWR">
+          <img class="bild2-ARfKr8" src="img/bild2@1x.png" /><img class="dsc0523-ARfKr8" src="img/dsc-0523@1x.png" />
+        </div>
+        <div class="about-me-yQoGRU roboto-medium-log-cabin-113px">About me</div>
+        <div class="my-goal-is-to-m-tter-experience-MuKjWR roboto-normal-log-cabin-26px-2">
+          <span class="span0-TeUdeS roboto-normal-log-cabin-26px">,,My goal is to make a </span
+          ><span class="span1-TeUdeS roboto-normal-chetwode-blue-26px">difference</span
+          ><span class="span2-TeUdeS roboto-normal-log-cabin-26px"> and to provide a better </span
+          ><span class="span3-TeUdeS roboto-normal-chetwode-blue-26px">experience</span
+          ><span class="span4-TeUdeS roboto-normal-log-cabin-26px">&#34;</span>
+        </div>
+        <a href="https://www.linkedin.com/in/kristin-holz-7083531b8/" target="_blank"
+          ><img class="x61109-MuKjWR" src="img/61109-1@1x.png" /></a
+        ><a href="https://www.behance.net/Kristin-Holz" target="_blank"
+          ><img class="x51916-MuKjWR" src="img/51916-1@1x.png" /></a
+        ><img class="linie-585-MuKjWR" src="img/linie-585-1@1x.png" />
+      </div>
+    </div>
+    <script>
+      function ShowOnScroll() {
+        this.toShow = [];
+        this.nextEventY = undefined;
+      }
+
+      ShowOnScroll.prototype.show = function (e) {
+        e.style.display = "";
+      };
+
+      ShowOnScroll.prototype.hide = function (e) {
+        e.style.display = "none";
+      };
+
+      ShowOnScroll.prototype.getTop = function (e) {
+        if (e.Top != undefined && e.Top != 0) {
+          return e.Top;
+        }
+        var top = 0;
+        var iter = e;
+        do {
+          top += iter.offsetTop || 0;
+          iter = iter.offsetParent;
+        } while (iter);
+        e.Top = top;
+        return top;
+      };
+
+      ShowOnScroll.prototype.onScroll = function () {
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        if (this.nextEventY == undefined || this.nextEventY > screenBottom) {
+          return;
+        }
+        this.nextEventY = undefined;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            this.show(e);
+            this.toShow.shift();
+            i--;
+          } else {
+            this.nextEventY = top;
+            break;
+          }
+        }
+      };
+
+      ShowOnScroll.prototype.resetScrolling = function () {
+        // Clear state
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          this.show(e);
+        }
+        this.toShow = [];
+        this.nextEventY == undefined;
+
+        // Collect items
+        var itemsToShowOnScroll = Array.prototype.slice.call(document.getElementsByTagName("*"));
+        itemsToShowOnScroll = itemsToShowOnScroll.filter(function (e) {
+          return e.getAttribute("show-on-scroll") != undefined;
+        });
+        var getTop = this.getTop;
+        itemsToShowOnScroll.sort(function (a, b) {
+          return getTop(a) - getTop(b);
+        });
+        for (var i = 0; i < itemsToShowOnScroll.length; i++) {
+          var e = itemsToShowOnScroll[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            continue;
+          }
+          this.toShow.push(e);
+          this.hide(e);
+          this.nextEventY = this.nextEventY != undefined ? this.nextEventY : top;
+        }
+      };
+
+      ShowOnScroll.prototype.handleEvent = function (e) {
+        switch (e.type) {
+          case "scroll":
+            this.onScroll();
+            break;
+          case "resize":
+            this.resetScrolling();
+            break;
+        }
+      };
+
+      ShowOnScroll.prototype.init = function () {
+        this.resetScrolling();
+        window.addEventListener("scroll", this);
+        window.addEventListener("resize", this);
+      };
+
+      // After anima-src
+      setTimeout(function () {
+        var instShowOnScroll = new ShowOnScroll();
+        instShowOnScroll.init();
+      }, 250);
+    </script>
+  </body>
+</html>
