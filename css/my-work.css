@@ -73,14 +73,19 @@ opacity: 0;transform: translate(0, 25px);
 }
 .my-work .get-an-overview-sis-ui-ux-guide-QlwNwD {
   background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
   height: auto;
   left: 150px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 39px;
   position: absolute;
   text-align: left;
-  top: 535px;
-  width: 570px;
+  top: 534px;
+  width: 656px;
 }
 .my-work .go-to-the-project-12fhS3 {
   background-color: transparent;
@@ -587,12 +592,12 @@ transform: scale(1.1);
   top: 60px;
   width: 60px;
 }
-.my-work.animate-enter5 {
-  animation: animate-enter5-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.my-work.animate-enter2 {
+  animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter5-frames {
+@keyframes animate-enter2-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

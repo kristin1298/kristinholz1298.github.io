@@ -75,17 +75,17 @@
   font-style: normal;
   font-weight: 500;
 }
-.roboto-normal-black-20px {
-  color: var(--black);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
 .montserrat-normal-black-16px {
   color: var(--black);
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
@@ -131,6 +131,13 @@
   font-style: normal;
   font-weight: 500;
 }
+.roboto-normal-chetwode-blue-16px {
+  color: var(--chetwode-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
 .roboto-normal-fiord-16px {
   color: var(--fiord);
   font-family: var(--font-family-roboto);
@@ -140,13 +147,6 @@
 }
 .roboto-normal-black-16px-2 {
   color: var(--black-2);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-.roboto-normal-chetwode-blue-16px {
-  color: var(--chetwode-blue);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
   font-style: normal;

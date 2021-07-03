@@ -1146,12 +1146,12 @@ transform: scale(1.1);
   white-space: nowrap;
   width: 103px;
 }
-.my-work-me-o-clock.animate-enter2 {
-  animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.my-work-me-o-clock.animate-enter4 {
+  animation: animate-enter4-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter2-frames {
+@keyframes animate-enter4-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
