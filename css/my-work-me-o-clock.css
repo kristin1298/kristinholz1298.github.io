@@ -24,30 +24,6 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.my-work-me-o-clock .back-to-overview-s5BOAf {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 30px);
-}
-.my-work-me-o-clock .back-to-overview-yWqnkp {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 30px);
-}
 .my-work-me-o-clock .choose-what-you-n-your-freetime-xNtogj {
   background-color: transparent;
   height: auto;
@@ -116,7 +92,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 280px;
 }
 .my-work-me-o-clock .ellipse-622-1fdw1M {
-  background-color: var(--seagull-2);
+  background-color: var(--seagull);
   border-radius: 8px;
   height: 16px;
   left: calc(50.00% - 8px);
@@ -125,7 +101,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 16px;
 }
 .my-work-me-o-clock .ellipse-622-4sO0KP {
-  background-color: var(--seagull-2);
+  background-color: var(--seagull);
   border-radius: 8px;
   height: 16px;
   left: calc(50.00% - 8px);
@@ -143,7 +119,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 16px;
 }
 .my-work-me-o-clock .ellipse-622-c8wLCz {
-  background-color: var(--seagull-2);
+  background-color: var(--seagull);
   border-radius: 8px;
   height: 16px;
   left: calc(50.00% - 8px);
@@ -246,6 +222,22 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   white-space: nowrap;
   width: calc(100.00% + 2px);
+}
+.my-work-me-o-clock .gruppe-1-MI1hRM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 1490px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 12828px;
+  transition: all 0.4s ease-in-out;
+  width: 280px;
+}
+.my-work-me-o-clock .gruppe-1-MI1hRM:hover {
+
+transform: scale(1.1);
 }
 .my-work-me-o-clock .gruppe-1-xNtogj {
   background-color: transparent;
@@ -507,78 +499,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 12103px;
   width: 248px;
 }
-.my-work-me-o-clock .gruppe-1260-mwGC2M {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  top: 3px;
-  width: 15px;
-}
-.my-work-me-o-clock .gruppe-1260-s5BOAf {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 3px;
-  width: 16px;
-}
-.my-work-me-o-clock .gruppe-1260-yWqnkp {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 3px;
-  width: 16px;
-}
-.my-work-me-o-clock .gruppe-1269-xNtogj {
-  background-color: transparent;
-  cursor: pointer;
-  height: 19px;
-  left: 150px;
-  pointer-events: auto;
-  position: absolute;
-  top: 190px;
-  transition: all 0.4s ease-in-out;
-  width: 232px;
-}
-.my-work-me-o-clock .gruppe-1269-xNtogj:hover {
-
-transform: scale(1.1);
-}
-.my-work-me-o-clock .gruppe-1295-xNtogj {
-  background-color: transparent;
-  cursor: pointer;
-  height: 19px;
-  left: 150px;
-  pointer-events: auto;
-  position: absolute;
-  top: 12828px;
-  transition: all 0.4s ease-in-out;
-  width: 232px;
-}
-.my-work-me-o-clock .gruppe-1295-xNtogj:hover {
-
-transform: scale(1.1);
-}
-.my-work-me-o-clock .gruppe-1296-xNtogj {
-  background-color: transparent;
-  cursor: pointer;
-  height: 19px;
-  left: 1490px;
-  pointer-events: auto;
-  position: absolute;
-  top: 12828px;
-  transition: all 0.4s ease-in-out;
-  width: 279px;
-}
-.my-work-me-o-clock .gruppe-1296-xNtogj:hover {
-
-transform: scale(1.1);
-}
 .my-work-me-o-clock .gruppe-173-xNtogj {
   background-color: transparent;
   height: 101px;
@@ -596,6 +516,38 @@ transform: scale(1.1);
   position: absolute;
   top: 2656px;
   width: 283px;
+}
+.my-work-me-o-clock .gruppe-2-MI1hRM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 150px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 190px;
+  transition: all 0.4s ease-in-out;
+  width: 231px;
+}
+.my-work-me-o-clock .gruppe-2-MI1hRM:hover {
+
+transform: scale(1.1);
+}
+.my-work-me-o-clock .gruppe-2-xNtogj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 150px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 12828px;
+  transition: all 0.4s ease-in-out;
+  width: 231px;
+}
+.my-work-me-o-clock .gruppe-2-xNtogj:hover {
+
+transform: scale(1.1);
 }
 .my-work-me-o-clock .gruppe-66-xNtogj {
   background-color: transparent;
@@ -755,7 +707,7 @@ transform: scale(1.1);
 }
 .my-work-me-o-clock .my-work-xNtogj {
   background-color: transparent;
-  color: var(--seagull);
+  color: #87c7eb;
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xxl);
   font-style: normal;
@@ -778,18 +730,6 @@ transform: scale(1.1);
   position: absolute;
   top: 119px;
   width: 99px;
-}
-.my-work-me-o-clock .next-project-di-tal-waitingroom-mwGC2M {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: right;
-  white-space: nowrap;
-  width: calc(100.00% - 29px);
 }
 .my-work-me-o-clock .onboarding-iCILkR {
   background-color: transparent;
@@ -1146,12 +1086,12 @@ transform: scale(1.1);
   white-space: nowrap;
   width: 103px;
 }
-.my-work-me-o-clock.animate-enter4 {
-  animation: animate-enter4-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.my-work-me-o-clock.animate-enter2 {
+  animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter4-frames {
+@keyframes animate-enter2-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

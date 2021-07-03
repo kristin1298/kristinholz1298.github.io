@@ -48,18 +48,6 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 232px;
 }
-.my-work-digital-waitingroom .back-to-overview-6xgqxF {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 30px);
-}
 .my-work-digital-waitingroom .book-an-appointment-vzfiC2 {
   background-color: transparent;
   height: auto;
@@ -236,43 +224,17 @@ opacity: 0;transform: translate(0, 25px);
   top: 445px;
   width: 383px;
 }
-.my-work-digital-waitingroom .gruppe-1264-6xgqxF {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 2px;
-  width: 16px;
-}
-.my-work-digital-waitingroom .gruppe-1264-MdDDJM {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  top: 3px;
-  width: 15px;
-}
-.my-work-digital-waitingroom .gruppe-1264-fqQPTM {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 3px;
-  width: 15px;
-}
 .my-work-digital-waitingroom .gruppe-1270-vzfiC2 {
   background-color: transparent;
   cursor: pointer;
   height: 19px;
   left: 150px;
+  object-fit: cover;
   pointer-events: auto;
   position: absolute;
   top: 190px;
   transition: all 0.4s ease-in-out;
-  width: 232px;
+  width: 231px;
 }
 .my-work-digital-waitingroom .gruppe-1270-vzfiC2:hover {
 
@@ -359,7 +321,8 @@ transform: scale(1.1);
   background-color: transparent;
   cursor: pointer;
   height: 19px;
-  left: 152px;
+  left: 150px;
+  object-fit: cover;
   pointer-events: auto;
   position: absolute;
   top: 13268px;
@@ -375,6 +338,7 @@ transform: scale(1.1);
   cursor: pointer;
   height: 19px;
   left: 1491px;
+  object-fit: cover;
   pointer-events: auto;
   position: absolute;
   top: 13268px;
@@ -388,7 +352,7 @@ transform: scale(1.1);
 .my-work-digital-waitingroom .gruppe-192-vzfiC2 {
   background-color: transparent;
   height: 555px;
-  left: 438px;
+  left: 385px;
   object-fit: cover;
   position: absolute;
   top: 3935px;
@@ -450,7 +414,7 @@ transform: scale(1.1);
 .my-work-digital-waitingroom .gruppe-948-vzfiC2 {
   background-color: transparent;
   height: 88px;
-  left: 1255px;
+  left: 1202px;
   object-fit: cover;
   position: absolute;
   top: 4382px;
@@ -459,7 +423,7 @@ transform: scale(1.1);
 .my-work-digital-waitingroom .gruppe-949-vzfiC2 {
   background-color: transparent;
   height: 85px;
-  left: 1255px;
+  left: 1202px;
   object-fit: cover;
   position: absolute;
   top: 4222px;
@@ -468,7 +432,7 @@ transform: scale(1.1);
 .my-work-digital-waitingroom .gruppe-950-vzfiC2 {
   background-color: transparent;
   height: 61px;
-  left: 1255px;
+  left: 1202px;
   object-fit: cover;
   position: absolute;
   top: 3925px;
@@ -477,7 +441,7 @@ transform: scale(1.1);
 .my-work-digital-waitingroom .gruppe-951-vzfiC2 {
   background-color: transparent;
   height: 87px;
-  left: 1255px;
+  left: 1202px;
   object-fit: cover;
   position: absolute;
   top: 4060px;
@@ -597,7 +561,7 @@ transform: scale(1.1);
   font-style: normal;
   font-weight: 600;
   height: auto;
-  left: 1255px;
+  left: 1202px;
   letter-spacing: 0.00px;
   line-height: 35px;
   position: absolute;
@@ -608,7 +572,7 @@ transform: scale(1.1);
 }
 .my-work-digital-waitingroom .my-work-vzfiC2 {
   background-color: transparent;
-  color: var(--endeavour);
+  color: #0051a3;
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xxl);
   font-style: normal;
@@ -631,18 +595,6 @@ transform: scale(1.1);
   position: absolute;
   top: 119px;
   width: 99px;
-}
-.my-work-digital-waitingroom .next-project-aro-MdDDJM {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: right;
-  white-space: nowrap;
-  width: calc(100.00% - 29px);
 }
 .my-work-digital-waitingroom .notifications-vzfiC2 {
   background-color: transparent;
@@ -764,36 +716,33 @@ transform: scale(1.1);
   top: 332px;
   width: 1309px;
 }
-.my-work-digital-waitingroom .previous-project-me-oclock-fqQPTM {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 30px);
-}
-.my-work-digital-waitingroom .rechteck-1363-vzfiC2 {
-  background-color: var(--white);
-  border-radius: 34px;
-  box-shadow: 4px 7px 25px #0000001a;
-  height: 733px;
-  left: 621px;
-  position: absolute;
-  top: 3748px;
-  width: 339px;
-}
 .my-work-digital-waitingroom .rechteck-1364-vzfiC2 {
   background-color: var(--white);
   border-radius: 34px;
+  box-shadow: 0px 1px 30px #00000029;
   height: 733px;
-  left: 621px;
+  left: 568px;
   position: absolute;
   top: 3748px;
   width: 339px;
+}
+.my-work-digital-waitingroom .rechteck-1693-vzfiC2 {
+  background-color: transparent;
+  border-radius: 34px;
+  height: 733px;
+  left: 568px;
+  overflow: hidden;
+  position: absolute;
+  top: 3748px;
+  width: 339px;
+}
+.my-work-digital-waitingroom .rechteck-1693-vzfiC2 img {
+  object-fit: cover;
+}
+.my-work-digital-waitingroom .rechteck-1693-vzfiC2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
 }
 .my-work-digital-waitingroom .rechteck-371-5PWc17 {
   background: linear-gradient(169.7deg, #f7f8fc 0%, #ffffff 100%);
@@ -824,7 +773,7 @@ transform: scale(1.1);
 }
 .my-work-digital-waitingroom .safe-time-YO7kPz {
   background-color: transparent;
-  color: var(--endeavour);
+  color: #0051a3;
   font-family: var(--font-family-open_sans);
   font-size: 56px;
   font-style: normal;
@@ -968,12 +917,12 @@ transform: scale(1.1);
   white-space: nowrap;
   width: 179px;
 }
-.my-work-digital-waitingroom.animate-enter5 {
-  animation: animate-enter5-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.my-work-digital-waitingroom.animate-enter4 {
+  animation: animate-enter4-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter5-frames {
+@keyframes animate-enter4-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

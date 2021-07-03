@@ -4,7 +4,6 @@
   --carnation: #ff6363;
   --chetwode-blue: #7a7cf2;
   --cornflower: #a1d0f9;
-  --endeavour: #0051a3;
   --fiord: #3f4d63;
   --gallery: #f0f0f0;
   --log-cabin: #222222;
@@ -13,8 +12,7 @@
   --picton-blue: #3ca5ff;
   --picton-blue-2: #3ca5ffcc;
   --sail: #b5e3fe7d;
-  --seagull: #87c7eb;
-  --seagull-2: #86c6eb;
+  --seagull: #86c6eb;
   --storm-dust: #656565;
   --storm-dust-2: #606060;
   --white: #ffffff;
@@ -131,13 +129,6 @@
   font-style: normal;
   font-weight: 500;
 }
-.roboto-normal-chetwode-blue-16px {
-  color: var(--chetwode-blue);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
 .roboto-normal-fiord-16px {
   color: var(--fiord);
   font-family: var(--font-family-roboto);
@@ -199,13 +190,6 @@
   font-style: normal;
   font-weight: 400;
 }
-.roboto-normal-seagull-16px {
-  color: var(--seagull);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
 .opensans-semi-bold-black-30px-2 {
   color: var(--black);
   font-family: var(--font-family-open_sans);
@@ -217,27 +201,6 @@
   color: var(--black);
   font-family: var(--font-family-open_sans);
   font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-.roboto-normal-endeavour-16px {
-  color: var(--endeavour);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-.roboto-normal-picton-blue-16px {
-  color: var(--picton-blue);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-.roboto-normal-carnation-16px {
-  color: var(--carnation);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }

@@ -143,18 +143,6 @@ opacity: 0;transform: translate(0, 25px);
   text-align: center;
   width: calc(100.00% - 82px);
 }
-.my-work-aro-assistant-rescue-organization .back-to-overview-xWRY9G {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 30px);
-}
 .my-work-aro-assistant-rescue-organization .battery-voltage-level-sinks-vCDwgp {
   background-color: transparent;
   height: auto;
@@ -1014,43 +1002,17 @@ opacity: 0;transform: translate(0, 25px);
   top: 395px;
   width: 859px;
 }
-.my-work-aro-assistant-rescue-organization .gruppe-1265-TJLDx1 {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  top: 3px;
-  width: 15px;
-}
-.my-work-aro-assistant-rescue-organization .gruppe-1265-of4qH5 {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 3px;
-  width: 15px;
-}
-.my-work-aro-assistant-rescue-organization .gruppe-1265-xWRY9G {
-  background-color: transparent;
-  height: calc(100.00% - 5px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 2px;
-  width: 16px;
-}
 .my-work-aro-assistant-rescue-organization .gruppe-1271-vCDwgp {
   background-color: transparent;
   cursor: pointer;
   height: 19px;
   left: 150px;
+  object-fit: cover;
   pointer-events: auto;
   position: absolute;
   top: 190px;
   transition: all 0.4s ease-in-out;
-  width: 232px;
+  width: 231px;
 }
 .my-work-aro-assistant-rescue-organization .gruppe-1271-vCDwgp:hover {
 
@@ -1081,21 +1043,6 @@ transform: scale(1.1);
   top: 14843px;
   width: 502px;
 }
-.my-work-aro-assistant-rescue-organization .gruppe-1295-XowaQU {
-  background-color: transparent;
-  cursor: pointer;
-  height: 19px;
-  left: 150px;
-  pointer-events: auto;
-  position: absolute;
-  top: 17208px;
-  transition: all 0.4s ease-in-out;
-  width: 307px;
-}
-.my-work-aro-assistant-rescue-organization .gruppe-1295-XowaQU:hover {
-
-transform: scale(1.1);
-}
 .my-work-aro-assistant-rescue-organization .gruppe-1295-vCDwgp {
   background-color: transparent;
   height: 5143px;
@@ -1104,21 +1051,6 @@ transform: scale(1.1);
   position: absolute;
   top: -726px;
   width: 4984px;
-}
-.my-work-aro-assistant-rescue-organization .gruppe-1296-vCDwgp {
-  background-color: transparent;
-  cursor: pointer;
-  height: 19px;
-  left: 1491px;
-  pointer-events: auto;
-  position: absolute;
-  top: 17208px;
-  transition: all 0.4s ease-in-out;
-  width: 279px;
-}
-.my-work-aro-assistant-rescue-organization .gruppe-1296-vCDwgp:hover {
-
-transform: scale(1.1);
 }
 .my-work-aro-assistant-rescue-organization .gruppe-1299-vCDwgp {
   background-color: transparent;
@@ -1355,6 +1287,38 @@ transform: scale(1.1);
   position: absolute;
   top: 1px;
   width: 100%;
+}
+.my-work-aro-assistant-rescue-organization .gruppe-3-vCDwgp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 150px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 17208px;
+  transition: all 0.4s ease-in-out;
+  width: 305px;
+}
+.my-work-aro-assistant-rescue-organization .gruppe-3-vCDwgp:hover {
+
+transform: scale(1.1);
+}
+.my-work-aro-assistant-rescue-organization .gruppe-4-vCDwgp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 1491px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 17208px;
+  transition: all 0.4s ease-in-out;
+  width: 279px;
+}
+.my-work-aro-assistant-rescue-organization .gruppe-4-vCDwgp:hover {
+
+transform: scale(1.1);
 }
 .my-work-aro-assistant-rescue-organization .gruppe-44-vCDwgp {
   background-color: transparent;
@@ -1716,18 +1680,6 @@ transform: scale(1.1);
   top: 119px;
   width: 98px;
 }
-.my-work-aro-assistant-rescue-organization .next-project-red-TJLDx1 {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: right;
-  white-space: nowrap;
-  width: calc(100.00% - 29px);
-}
 .my-work-aro-assistant-rescue-organization .our-client-caru-th-caruso-throu-aPsUNQ {
   background-color: transparent;
   bottom: calc(3.07% - 4px);
@@ -2004,18 +1956,6 @@ transform: scale(1.1);
   position: absolute;
   top: 8743px;
   width: 836px;
-}
-.my-work-aro-assistant-rescue-organization .previous-projec-tal-waitingroom-of4qH5 {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 32px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 30px);
 }
 .my-work-aro-assistant-rescue-organization .providing-adequ-easily-get-the-4mLRyT {
   background-color: transparent;
@@ -3003,12 +2943,12 @@ transform: scale(1.1);
   top: 60px;
   width: 60px;
 }
-.my-work-aro-assistant-rescue-organization.animate-enter6 {
-  animation: animate-enter6-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.my-work-aro-assistant-rescue-organization.animate-enter5 {
+  animation: animate-enter5-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter6-frames {
+@keyframes animate-enter5-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
