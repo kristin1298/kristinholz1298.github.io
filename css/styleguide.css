@@ -4,6 +4,7 @@
   --carnation: #ff6363;
   --chetwode-blue: #7a7cf2;
   --cornflower: #a1d0f9;
+  --endeavour: #0051a3;
   --fiord: #3f4d63;
   --log-cabin: #222222;
   --mabel: #d7edff;
@@ -86,6 +87,13 @@
   font-style: normal;
   font-weight: 400;
 }
+.opensans-semi-bold-black-30px {
+  color: var(--black-2);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
 .opensans-normal-black-16px {
   color: var(--black-2);
   font-family: var(--font-family-open_sans);
@@ -99,13 +107,6 @@
   font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 500;
-}
-.opensans-semi-bold-black-30px {
-  color: var(--black-2);
-  font-family: var(--font-family-open_sans);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 600;
 }
 .roboto-medium-masala-20px {
   color: var(--masala);
@@ -128,17 +129,17 @@
   font-style: normal;
   font-weight: 500;
 }
-.roboto-normal-fiord-16px {
-  color: var(--fiord);
+.roboto-normal-black-16px-2 {
+  color: var(--black-2);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
-.roboto-normal-black-16px-2 {
-  color: var(--black-2);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
+.opensans-normal-endeavour-14px {
+  color: var(--endeavour);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
 }
@@ -186,6 +187,13 @@
   color: var(--fiord);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-fiord-16px {
+  color: var(--fiord);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }

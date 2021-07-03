@@ -1,10 +1,10 @@
 /* screen - my-work-digital-waitingroom */
 
 .my-work-digital-waitingroom {
-  background: linear-gradient(187.97deg, #ffffff 0%, #f7f8fc 102.45%);
+  background: linear-gradient(186.82deg, #ffffff 0%, #f7f8fc 102.46%);
   background-color: rgba(255,255,255,1.0);
   display: block;
-  height: 13387px;
+  height: 15661px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
@@ -56,7 +56,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 7061px;
+  top: 9335px;
   white-space: nowrap;
   width: auto;
 }
@@ -72,6 +72,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
+.my-work-digital-waitingroom .calendar-vzfiC2 {
+  background-color: transparent;
+  height: 825px;
+  left: 1038px;
+  object-fit: cover;
+  position: absolute;
+  top: 5151px;
+  width: 430px;
+}
 .my-work-digital-waitingroom .check-your-appointment-vzfiC2 {
   background-color: transparent;
   height: auto;
@@ -80,7 +89,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 9201px;
+  top: 11476px;
   white-space: nowrap;
   width: auto;
 }
@@ -122,9 +131,18 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 44px;
   position: absolute;
   text-align: left;
-  top: 12787px;
+  top: 15062px;
   white-space: nowrap;
   width: auto;
+}
+.my-work-digital-waitingroom .ellipse-624-vzfiC2 {
+  background-color: var(--endeavour);
+  border-radius: 6.5px;
+  height: 13px;
+  left: 650px;
+  position: absolute;
+  top: 6561px;
+  width: 13px;
 }
 .my-work-digital-waitingroom .find-doctors-vzfiC2 {
   background-color: transparent;
@@ -134,7 +152,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 4839px;
+  top: 7114px;
   white-space: nowrap;
   width: auto;
 }
@@ -146,7 +164,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 6018px;
+  top: 8293px;
   white-space: nowrap;
   width: auto;
 }
@@ -170,7 +188,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 9261px;
+  top: 11536px;
   white-space: nowrap;
   width: auto;
 }
@@ -187,7 +205,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 7120px;
+  top: 9395px;
   white-space: nowrap;
   width: auto;
 }
@@ -199,7 +217,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 5958px;
+  top: 8233px;
   white-space: nowrap;
   width: auto;
 }
@@ -211,7 +229,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 11218px;
+  top: 13493px;
   white-space: nowrap;
   width: auto;
 }
@@ -255,7 +273,7 @@ transform: scale(1.1);
   left: 145px;
   object-fit: cover;
   position: absolute;
-  top: 4778px;
+  top: 7053px;
   width: 414px;
 }
 .my-work-digital-waitingroom .gruppe-1280-IPZHaF {
@@ -305,7 +323,7 @@ transform: scale(1.1);
   left: 1366px;
   object-fit: cover;
   position: absolute;
-  top: 5893px;
+  top: 8168px;
   width: 420px;
 }
 .my-work-digital-waitingroom .gruppe-1294-yZ73p1 {
@@ -325,7 +343,7 @@ transform: scale(1.1);
   object-fit: cover;
   pointer-events: auto;
   position: absolute;
-  top: 13268px;
+  top: 15543px;
   transition: all 0.4s ease-in-out;
   width: 232px;
 }
@@ -341,7 +359,7 @@ transform: scale(1.1);
   object-fit: cover;
   pointer-events: auto;
   position: absolute;
-  top: 13268px;
+  top: 15543px;
   transition: all 0.4s ease-in-out;
   width: 279px;
 }
@@ -352,10 +370,10 @@ transform: scale(1.1);
 .my-work-digital-waitingroom .gruppe-192-vzfiC2 {
   background-color: transparent;
   height: 555px;
-  left: 385px;
+  left: 219px;
   object-fit: cover;
   position: absolute;
-  top: 3935px;
+  top: 4135px;
   width: 122px;
 }
 .my-work-digital-waitingroom .gruppe-216-vzfiC2 {
@@ -382,7 +400,7 @@ transform: scale(1.1);
   left: 622px;
   object-fit: cover;
   position: absolute;
-  top: 7408px;
+  top: 9683px;
   width: 144px;
 }
 .my-work-digital-waitingroom .gruppe-940-vzfiC2 {
@@ -391,7 +409,7 @@ transform: scale(1.1);
   left: 836px;
   object-fit: cover;
   position: absolute;
-  top: 10379px;
+  top: 12654px;
   width: 315px;
 }
 .my-work-digital-waitingroom .gruppe-941-vzfiC2 {
@@ -400,7 +418,7 @@ transform: scale(1.1);
   left: 1293px;
   object-fit: cover;
   position: absolute;
-  top: 11825px;
+  top: 14100px;
   width: 214px;
 }
 .my-work-digital-waitingroom .gruppe-942-vzfiC2 {
@@ -408,43 +426,43 @@ transform: scale(1.1);
   height: 76px;
   left: 828px;
   position: absolute;
-  top: 12704px;
+  top: 14979px;
   width: 266px;
 }
 .my-work-digital-waitingroom .gruppe-948-vzfiC2 {
   background-color: transparent;
   height: 88px;
-  left: 1202px;
+  left: 1083px;
   object-fit: cover;
   position: absolute;
-  top: 4382px;
+  top: 5995px;
   width: 333px;
 }
 .my-work-digital-waitingroom .gruppe-949-vzfiC2 {
   background-color: transparent;
   height: 85px;
-  left: 1202px;
+  left: 498px;
   object-fit: cover;
   position: absolute;
-  top: 4222px;
+  top: 5905px;
   width: 327px;
 }
 .my-work-digital-waitingroom .gruppe-950-vzfiC2 {
   background-color: transparent;
   height: 61px;
-  left: 1202px;
+  left: 498px;
   object-fit: cover;
   position: absolute;
-  top: 3925px;
+  top: 4755px;
   width: 323px;
 }
 .my-work-digital-waitingroom .gruppe-951-vzfiC2 {
   background-color: transparent;
   height: 87px;
-  left: 1202px;
+  left: 1083px;
   object-fit: cover;
   position: absolute;
-  top: 4060px;
+  top: 4846px;
   width: 324px;
 }
 .my-work-digital-waitingroom .gruppe-963-vzfiC2 {
@@ -453,7 +471,7 @@ transform: scale(1.1);
   left: 141px;
   object-fit: cover;
   position: absolute;
-  top: 7009px;
+  top: 9284px;
   width: 420px;
 }
 .my-work-digital-waitingroom .gruppe-964-vzfiC2 {
@@ -462,7 +480,7 @@ transform: scale(1.1);
   left: 1366px;
   object-fit: cover;
   position: absolute;
-  top: 8121px;
+  top: 10396px;
   width: 420px;
 }
 .my-work-digital-waitingroom .gruppe-965-vzfiC2 {
@@ -471,7 +489,7 @@ transform: scale(1.1);
   left: 141px;
   object-fit: cover;
   position: absolute;
-  top: 9144px;
+  top: 11419px;
   width: 420px;
 }
 .my-work-digital-waitingroom .gruppe-968-vzfiC2 {
@@ -480,7 +498,7 @@ transform: scale(1.1);
   left: 993px;
   object-fit: cover;
   position: absolute;
-  top: 11472px;
+  top: 13747px;
   width: 356px;
 }
 .my-work-digital-waitingroom .gruppe-969-vzfiC2 {
@@ -489,7 +507,7 @@ transform: scale(1.1);
   left: 575px;
   object-fit: cover;
   position: absolute;
-  top: 11320px;
+  top: 13595px;
   width: 356px;
 }
 .my-work-digital-waitingroom .home-vzfiC2 {
@@ -522,8 +540,17 @@ transform: scale(1.1);
   height: 2427px;
   left: 691px;
   position: absolute;
-  top: 5548px;
+  top: 7823px;
   transform: rotate(255.00deg);
+  width: 441px;
+}
+.my-work-digital-waitingroom .komponente-3-30-vzfiC2 {
+  background-color: transparent;
+  height: 2427px;
+  left: 640px;
+  position: absolute;
+  top: 12664px;
+  transform: rotate(-75.00deg);
   width: 441px;
 }
 .my-work-digital-waitingroom .komponente-3-5-vzfiC2 {
@@ -535,22 +562,13 @@ transform: scale(1.1);
   transform: rotate(-75.00deg);
   width: 519px;
 }
-.my-work-digital-waitingroom .komponente-3-6-vzfiC2 {
-  background-color: transparent;
-  height: 2427px;
-  left: 589px;
-  position: absolute;
-  top: 10467px;
-  transform: rotate(-75.00deg);
-  width: 441px;
-}
 .my-work-digital-waitingroom .logo-vzfiC2 {
   background-color: transparent;
   height: 200px;
   left: 744px;
   object-fit: cover;
   position: absolute;
-  top: 1484px;
+  top: 1498px;
   width: 433px;
 }
 .my-work-digital-waitingroom .main-screens-vzfiC2 {
@@ -561,18 +579,18 @@ transform: scale(1.1);
   font-style: normal;
   font-weight: 600;
   height: auto;
-  left: 1202px;
+  left: 848px;
   letter-spacing: 0.00px;
   line-height: 35px;
   position: absolute;
   text-align: left;
-  top: 3760px;
+  top: 3773px;
   white-space: nowrap;
   width: auto;
 }
 .my-work-digital-waitingroom .my-work-vzfiC2 {
   background-color: transparent;
-  color: #0051a3;
+  color: var(--endeavour);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xxl);
   font-style: normal;
@@ -604,7 +622,7 @@ transform: scale(1.1);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 11158px;
+  top: 13433px;
   white-space: nowrap;
   width: auto;
 }
@@ -628,7 +646,7 @@ transform: scale(1.1);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 1923px;
+  top: 1937px;
   white-space: nowrap;
   width: auto;
 }
@@ -646,12 +664,12 @@ transform: scale(1.1);
 }
 .my-work-digital-waitingroom .pfad-1099-vzfiC2 {
   background-color: transparent;
-  height: 5483px;
-  left: 413px;
+  height: 6141px;
+  left: 348px;
   object-fit: cover;
   position: absolute;
-  top: 4949px;
-  width: 1127px;
+  top: 6567px;
+  width: 1183px;
 }
 .my-work-digital-waitingroom .pfad-1108-vzfiC2 {
   background-color: transparent;
@@ -659,7 +677,7 @@ transform: scale(1.1);
   left: 1484px;
   object-fit: cover;
   position: absolute;
-  top: 8614px;
+  top: 10888px;
   width: 997px;
 }
 .my-work-digital-waitingroom .pfad-1109-vzfiC2 {
@@ -677,8 +695,26 @@ transform: scale(1.1);
   left: -584px;
   object-fit: cover;
   position: absolute;
-  top: 5242px;
+  top: 7517px;
   width: 997px;
+}
+.my-work-digital-waitingroom .pfad-1697-vzfiC2 {
+  background-color: transparent;
+  height: 733px;
+  left: 1083px;
+  object-fit: cover;
+  position: absolute;
+  top: 4047px;
+  width: 339px;
+}
+.my-work-digital-waitingroom .pfad-1700-vzfiC2 {
+  background-color: transparent;
+  height: 1063px;
+  left: 1479px;
+  object-fit: cover;
+  position: absolute;
+  top: 4513px;
+  width: 1066px;
 }
 .my-work-digital-waitingroom .pfad-945-IPZHaF {
   background-color: transparent;
@@ -686,7 +722,7 @@ transform: scale(1.1);
   left: -269px;
   object-fit: cover;
   position: absolute;
-  top: 12796px;
+  top: 15071px;
   width: 760px;
 }
 .my-work-digital-waitingroom .pfad-945-vzfiC2 {
@@ -700,15 +736,6 @@ transform: scale(1.1);
 }
 .my-work-digital-waitingroom .pfad-946-IPZHaF {
   background-color: transparent;
-  height: 876px;
-  left: 1458px;
-  object-fit: cover;
-  position: absolute;
-  top: 12255px;
-  width: 880px;
-}
-.my-work-digital-waitingroom .pfad-946-vzfiC2 {
-  background-color: transparent;
   height: 1310px;
   left: 1225px;
   object-fit: cover;
@@ -716,35 +743,25 @@ transform: scale(1.1);
   top: 332px;
   width: 1309px;
 }
-.my-work-digital-waitingroom .rechteck-1364-vzfiC2 {
-  background-color: var(--white);
-  border-radius: 34px;
-  box-shadow: 0px 1px 30px #00000029;
-  height: 733px;
-  left: 568px;
-  position: absolute;
-  top: 3748px;
-  width: 339px;
-}
-.my-work-digital-waitingroom .rechteck-1693-vzfiC2 {
+.my-work-digital-waitingroom .pfad-946-vzfiC2 {
   background-color: transparent;
-  border-radius: 34px;
-  height: 733px;
-  left: 568px;
-  overflow: hidden;
+  height: 876px;
+  left: 1509px;
+  object-fit: cover;
   position: absolute;
-  top: 3748px;
-  width: 339px;
+  top: 14650px;
+  width: 880px;
 }
-.my-work-digital-waitingroom .rechteck-1693-vzfiC2 img {
+.my-work-digital-waitingroom .profile-vzfiC2 {
+  background-color: transparent;
+  height: 825px;
+  left: 451px;
   object-fit: cover;
+  position: absolute;
+  top: 3910px;
+  width: 430px;
 }
-.my-work-digital-waitingroom .rechteck-1693-vzfiC2 video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-.my-work-digital-waitingroom .rechteck-371-5PWc17 {
+.my-work-digital-waitingroom .rechteck-371-81ub23 {
   background: linear-gradient(169.7deg, #f7f8fc 0%, #ffffff 100%);
   background-color: transparent;
   height: 100%;
@@ -773,7 +790,7 @@ transform: scale(1.1);
 }
 .my-work-digital-waitingroom .safe-time-YO7kPz {
   background-color: transparent;
-  color: #0051a3;
+  color: var(--endeavour);
   font-family: var(--font-family-open_sans);
   font-size: 56px;
   font-style: normal;
@@ -788,6 +805,15 @@ transform: scale(1.1);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
+.my-work-digital-waitingroom .saved-doctors-vzfiC2 {
+  background-color: transparent;
+  height: 825px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 5060px;
+  width: 430px;
+}
 .my-work-digital-waitingroom .search-for-doct-border-the-area-vzfiC2 {
   background-color: transparent;
   height: auto;
@@ -796,9 +822,18 @@ transform: scale(1.1);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 4899px;
+  top: 7174px;
   white-space: nowrap;
   width: auto;
+}
+.my-work-digital-waitingroom .search-vzfiC2 {
+  background-color: transparent;
+  height: 825px;
+  left: 1038px;
+  object-fit: cover;
+  position: absolute;
+  top: 4001px;
+  width: 430px;
 }
 .my-work-digital-waitingroom .set-a-reminder-lso-be-informed-Me4qnC {
   background-color: transparent;
@@ -820,7 +855,7 @@ transform: scale(1.1);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 8171px;
+  top: 10446px;
   white-space: nowrap;
   width: auto;
 }
@@ -832,7 +867,67 @@ transform: scale(1.1);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 8231px;
+  top: 10506px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work-digital-waitingroom .step-01-vzfiC2 {
+  background-color: transparent;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 7065px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work-digital-waitingroom .step-02-vzfiC2 {
+  background-color: transparent;
+  height: auto;
+  left: 975px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 8184px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work-digital-waitingroom .step-03-vzfiC2 {
+  background-color: transparent;
+  height: auto;
+  left: 624px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 9286px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work-digital-waitingroom .step-04-vzfiC2 {
+  background-color: transparent;
+  height: auto;
+  left: 961px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 10396px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work-digital-waitingroom .step-05-vzfiC2 {
+  background-color: transparent;
+  height: auto;
+  left: 628px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 11426px;
   white-space: nowrap;
   width: auto;
 }
@@ -855,7 +950,7 @@ transform: scale(1.1);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 1848px;
+  top: 1862px;
   white-space: nowrap;
   width: auto;
 }
@@ -867,7 +962,19 @@ transform: scale(1.1);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 1848px;
+  top: 1862px;
+  white-space: nowrap;
+  width: auto;
+}
+.my-work-digital-waitingroom .x5-steps-to-easi-an-appointment-vzfiC2 {
+  background-color: transparent;
+  height: auto;
+  left: 685px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 6547px;
   white-space: nowrap;
   width: auto;
 }
@@ -901,7 +1008,7 @@ transform: scale(1.1);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 1923px;
+  top: 1937px;
   white-space: nowrap;
   width: auto;
 }
