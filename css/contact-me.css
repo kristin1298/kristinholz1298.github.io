@@ -25,11 +25,6 @@ opacity: 0;transform: translate(0, 25px);
 }
 .contact-me .contact-me-UbIkoM {
   background-color: transparent;
-  color: #9799f2;
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 400;
   height: auto;
   left: 775px;
   letter-spacing: 0.00px;
@@ -52,29 +47,30 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.contact-me .contactme-UbIkoM {
+  background-color: transparent;
+  height: 3px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 134px;
+}
 .contact-me .gruppe-1297-UbIkoM {
   background-color: transparent;
   height: 50px;
   left: 150px;
   position: absolute;
   top: 771px;
-  width: 322px;
+  width: 313px;
 }
 .contact-me .gruppe-1298-UbIkoM {
   background-color: transparent;
   height: 43px;
-  left: 562px;
+  left: 561px;
   position: absolute;
   top: 775px;
-  width: 435px;
-}
-.contact-me .gruppe-809-6VFsu8 {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  position: absolute;
-  top: 0px;
-  width: 43px;
+  width: 425px;
 }
 .contact-me .home-UbIkoM {
   background-color: transparent;
@@ -113,32 +109,14 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 332px;
 }
-.contact-me .linie-494-vlsEue {
+.contact-me .mail-6VFsu8 {
   background-color: transparent;
-  height: 19px;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
   position: absolute;
-  right: calc(22.60% - 1px);
-  top: calc(36.49% - 7px);
-  width: 3px;
-}
-.contact-me .linie-5-rYXJz6 {
-  background-color: transparent;
-  bottom: 7px;
-  height: 3px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(49.70% - 7px);
-  width: 14px;
-}
-.contact-me .linie-585-UbIkoM {
-  background-color: transparent;
-  height: 3px;
-  left: 774px;
-  object-fit: cover;
-  position: absolute;
-  top: 119px;
-  width: 138px;
+  top: 0px;
+  width: 43px;
 }
 .contact-me .my-work-UbIkoM {
   background-color: transparent;
@@ -153,24 +131,6 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.contact-me .pfad-1073-vlsEue {
-  background-color: transparent;
-  height: calc(100.00% + 3px);
-  left: -1px;
-  object-fit: cover;
-  position: absolute;
-  top: -2px;
-  width: calc(100.00% + 3px);
-}
-.contact-me .pfad-43-rYXJz6 {
-  background-color: transparent;
-  height: calc(100.00% + 3px);
-  left: -1px;
-  object-fit: cover;
-  position: absolute;
-  top: -2px;
-  width: calc(100.00% + 3px);
-}
 .contact-me .rechteck-1685-UbIkoM {
   background-color: transparent;
   height: 1080px;
@@ -184,13 +144,14 @@ opacity: 0;transform: translate(0, 25px);
   background-color: transparent;
   height: 100%;
   left: 0px;
+  object-fit: cover;
   position: absolute;
   top: 0px;
-  width: 30px;
+  width: 31px;
 }
 .contact-me .x49-176-846-981-18-zjIx4f {
   background-color: transparent;
-  bottom: calc(43.76% - 15px);
+  bottom: calc(43.81% - 15px);
   height: 34px;
   letter-spacing: 0.00px;
   line-height: 26px;
@@ -222,12 +183,12 @@ opacity: 0;transform: translate(0, 25px);
   top: 60px;
   width: 60px;
 }
-.contact-me.animate-enter3 {
-  animation: animate-enter3-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.contact-me.animate-enter6 {
+  animation: animate-enter6-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter3-frames {
+@keyframes animate-enter6-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

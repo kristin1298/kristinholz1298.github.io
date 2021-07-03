@@ -34,6 +34,26 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.about-me .aboutme-MuKjWR {
+  background-color: transparent;
+  height: 3px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 113px;
+}
+.about-me .art-and-design-in-ui-ux-design-MuKjWR {
+  background-color: transparent;
+  height: auto;
+  left: 960px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: left;
+  top: 1522px;
+  width: 707px;
+}
 .about-me .bild2-ARfKr8 {
   background-color: transparent;
   height: calc(100.00% - 79px);
@@ -93,26 +113,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 78px;
   white-space: nowrap;
   width: auto;
-}
-.about-me .linie-585-MuKjWR {
-  background-color: transparent;
-  height: 3px;
-  left: 334px;
-  object-fit: cover;
-  position: absolute;
-  top: 119px;
-  width: 116px;
-}
-.about-me .lorem-ipsum-dol-no-sea-takimata-MuKjWR {
-  background-color: transparent;
-  height: auto;
-  left: 960px;
-  letter-spacing: 0.00px;
-  line-height: 39px;
-  position: absolute;
-  text-align: left;
-  top: 1522px;
-  width: 743px;
 }
 .about-me .my-goal-is-to-m-tter-experience-MuKjWR {
   background-color: transparent;

@@ -701,15 +701,6 @@ transform: scale(1.1);
   top: 0px;
   width: 100%;
 }
-.my-work-me-o-clock .linie-585-xNtogj {
-  background-color: transparent;
-  height: 3px;
-  left: 561px;
-  object-fit: cover;
-  position: absolute;
-  top: 119px;
-  width: 101px;
-}
 .my-work-me-o-clock .made-for-everyone-eYtBJg {
   background-color: transparent;
   height: 39px;
@@ -766,7 +757,7 @@ transform: scale(1.1);
   background-color: transparent;
   color: var(--seagull);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -778,6 +769,15 @@ transform: scale(1.1);
   top: 78px;
   white-space: nowrap;
   width: auto;
+}
+.my-work-me-o-clock .myworkmeoclock-xNtogj {
+  background-color: transparent;
+  height: 3px;
+  left: 562px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 99px;
 }
 .my-work-me-o-clock .next-project-di-tal-waitingroom-mwGC2M {
   background-color: transparent;
@@ -795,7 +795,7 @@ transform: scale(1.1);
   background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
   height: 39px;
@@ -1017,7 +1017,7 @@ transform: scale(1.1);
   background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -1034,7 +1034,7 @@ transform: scale(1.1);
   background-color: transparent;
   color: var(--fiord);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -1109,7 +1109,7 @@ transform: scale(1.1);
   background-color: transparent;
   color: var(--fiord);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -1146,12 +1146,12 @@ transform: scale(1.1);
   white-space: nowrap;
   width: 103px;
 }
-.my-work-me-o-clock.animate-enter4 {
-  animation: animate-enter4-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.my-work-me-o-clock.animate-enter2 {
+  animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter4-frames {
+@keyframes animate-enter2-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

@@ -394,15 +394,6 @@ transform: scale(1.1);
   white-space: nowrap;
   width: auto;
 }
-.my-work .linie-585-QlwNwD {
-  background-color: transparent;
-  height: 3px;
-  left: 561px;
-  object-fit: cover;
-  position: absolute;
-  top: 119px;
-  width: 101px;
-}
 .my-work .logo-DeSr9b {
   background-color: transparent;
   height: 43px;
@@ -479,6 +470,15 @@ transform: scale(1.1);
   top: 78px;
   white-space: nowrap;
   width: auto;
+}
+.my-work .mywork-QlwNwD {
+  background-color: transparent;
+  height: 3px;
+  left: 562px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 99px;
 }
 .my-work .pfad-52-lr4V6H {
   background-color: transparent;
@@ -587,12 +587,12 @@ transform: scale(1.1);
   top: 60px;
   width: 60px;
 }
-.my-work.animate-enter2 {
-  animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.my-work.animate-enter5 {
+  animation: animate-enter5-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter2-frames {
+@keyframes animate-enter5-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

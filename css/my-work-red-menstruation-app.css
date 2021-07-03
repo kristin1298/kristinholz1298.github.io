@@ -152,7 +152,27 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
+.my-work-red-menstruation-app .ellipse-141-dA5lji {
+  background-color: var(--carnation);
+  border-radius: 17px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.2;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .my-work-red-menstruation-app .ellipse-141-hDX1Rq {
+  background-color: var(--carnation);
+  border-radius: 17px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.2;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.my-work-red-menstruation-app .ellipse-141-hWxS6e {
   background-color: var(--carnation);
   border-radius: 17px;
   height: 100%;
@@ -257,15 +277,6 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 16px;
 }
-.my-work-red-menstruation-app .ellipse-142-KTP188 {
-  background-color: var(--carnation);
-  border-radius: 8px;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
-}
 .my-work-red-menstruation-app .ellipse-142-L68uFS {
   background-color: var(--carnation);
   border-radius: 8px;
@@ -274,15 +285,6 @@ opacity: 0;transform: translate(0, 25px);
   left: calc(50.00% - 8px);
   position: absolute;
   width: 16px;
-}
-.my-work-red-menstruation-app .ellipse-142-MRh68x {
-  background-color: var(--carnation);
-  border-radius: 8px;
-  height: 100%;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 100%;
 }
 .my-work-red-menstruation-app .ellipse-142-X3mlAE {
   background-color: var(--carnation);
@@ -302,6 +304,15 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 16px;
 }
+.my-work-red-menstruation-app .ellipse-142-dA5lji {
+  background-color: var(--carnation);
+  border-radius: 8px;
+  height: 16px;
+  left: calc(50.00% - 8px);
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 16px;
+}
 .my-work-red-menstruation-app .ellipse-142-hDX1Rq {
   background-color: var(--carnation);
   border-radius: 8px;
@@ -309,6 +320,15 @@ opacity: 0;transform: translate(0, 25px);
   height: 16px;
   left: calc(50.00% - 8px);
   position: absolute;
+  width: 16px;
+}
+.my-work-red-menstruation-app .ellipse-142-hWxS6e {
+  background-color: var(--carnation);
+  border-radius: 8px;
+  height: 16px;
+  left: calc(50.00% - 8px);
+  position: absolute;
+  top: calc(50.00% - 8px);
   width: 16px;
 }
 .my-work-red-menstruation-app .ellipse-142-mRnDzY {
@@ -368,6 +388,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.my-work-red-menstruation-app .erinnerungen-SWQUiG {
+  background-color: transparent;
+  height: 803px;
+  left: 758px;
+  object-fit: cover;
+  position: absolute;
+  top: 8113px;
+  width: 410px;
+}
 .my-work-red-menstruation-app .extras-SWQUiG {
   background-color: transparent;
   height: auto;
@@ -415,24 +444,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 6513px;
   white-space: nowrap;
   width: auto;
-}
-.my-work-red-menstruation-app .gruppe-1011-SWQUiG {
-  background-color: transparent;
-  height: 803px;
-  left: 209px;
-  object-fit: cover;
-  position: absolute;
-  top: 8113px;
-  width: 409px;
-}
-.my-work-red-menstruation-app .gruppe-1012-SWQUiG {
-  background-color: transparent;
-  height: 803px;
-  left: 758px;
-  object-fit: cover;
-  position: absolute;
-  top: 8113px;
-  width: 410px;
 }
 .my-work-red-menstruation-app .gruppe-1014-SWQUiG {
   background-color: transparent;
@@ -594,14 +605,21 @@ transform: scale(1.1);
 
 transform: scale(1.1);
 }
-.my-work-red-menstruation-app .gruppe-1299-SWQUiG {
+.my-work-red-menstruation-app .gruppe-1303-SWQUiG {
   background-color: transparent;
-  height: 803px;
-  left: 1314px;
-  object-fit: cover;
+  height: 34px;
+  left: 814px;
   position: absolute;
-  top: 8113px;
-  width: 409px;
+  top: 8422px;
+  width: 34px;
+}
+.my-work-red-menstruation-app .gruppe-1304-SWQUiG {
+  background-color: transparent;
+  height: 34px;
+  left: 1067px;
+  position: absolute;
+  top: 8543px;
+  width: 34px;
 }
 .my-work-red-menstruation-app .gruppe-893-SWQUiG {
   background-color: transparent;
@@ -707,29 +725,13 @@ transform: scale(1.1);
   top: 8423px;
   width: 34px;
 }
-.my-work-red-menstruation-app .gruppe-911-SWQUiG {
-  background-color: transparent;
-  height: 16px;
-  left: 806px;
-  position: absolute;
-  top: 8431px;
-  width: 16px;
-}
 .my-work-red-menstruation-app .gruppe-912-SWQUiG {
   background-color: transparent;
   height: 34px;
-  left: 1335px;
+  left: 1336px;
   position: absolute;
-  top: 8544px;
+  top: 8543px;
   width: 34px;
-}
-.my-work-red-menstruation-app .gruppe-913-SWQUiG {
-  background-color: transparent;
-  height: 16px;
-  left: 1099px;
-  position: absolute;
-  top: 8552px;
-  width: 16px;
 }
 .my-work-red-menstruation-app .gruppe-944-pTXxwV {
   background-color: transparent;
@@ -873,29 +875,29 @@ transform: scale(1.1);
 .my-work-red-menstruation-app .linie-544-SWQUiG {
   background-color: transparent;
   height: 2px;
-  left: 568px;
+  left: 586px;
   object-fit: cover;
   position: absolute;
   top: 8438px;
-  width: 247px;
+  width: 230px;
 }
 .my-work-red-menstruation-app .linie-545-SWQUiG {
   background-color: transparent;
   height: 2px;
-  left: 1106px;
+  left: 1098px;
   object-fit: cover;
   position: absolute;
-  top: 8559px;
-  width: 251px;
+  top: 8560px;
+  width: 237px;
 }
-.my-work-red-menstruation-app .linie-585-SWQUiG {
+.my-work-red-menstruation-app .linie-556-SWQUiG {
   background-color: transparent;
-  height: 3px;
-  left: 561px;
+  height: 1px;
+  left: 1374px;
   object-fit: cover;
   position: absolute;
-  top: 119px;
-  width: 101px;
+  top: 8203px;
+  width: 29px;
 }
 .my-work-red-menstruation-app .main-screens-SWQUiG {
   background-color: transparent;
@@ -913,7 +915,7 @@ transform: scale(1.1);
   background-color: transparent;
   color: var(--carnation);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -925,6 +927,15 @@ transform: scale(1.1);
   top: 78px;
   white-space: nowrap;
   width: auto;
+}
+.my-work-red-menstruation-app .myworkred-SWQUiG {
+  background-color: transparent;
+  height: 3px;
+  left: 562px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 99px;
 }
 .my-work-red-menstruation-app .pfad-1088-SWQUiG {
   background-color: transparent;
@@ -1150,6 +1161,15 @@ transform: scale(1.1);
   white-space: nowrap;
   width: auto;
 }
+.my-work-red-menstruation-app .verhtungserinnerung-SWQUiG {
+  background-color: transparent;
+  height: 803px;
+  left: 1314px;
+  object-fit: cover;
+  position: absolute;
+  top: 8113px;
+  width: 409px;
+}
 .my-work-red-menstruation-app .x51916-SWQUiG {
   background-color: transparent;
   border-radius: 14px;
@@ -1183,6 +1203,15 @@ transform: scale(1.1);
   top: 6406px;
   white-space: nowrap;
   width: auto;
+}
+.my-work-red-menstruation-app .zykluserinnerung-SWQUiG {
+  background-color: transparent;
+  height: 803px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 8113px;
+  width: 409px;
 }
 .my-work-red-menstruation-app.animate-enter7 {
   animation: animate-enter7-frames 1.00s ease-in-out 0.00s 1 normal forwards;

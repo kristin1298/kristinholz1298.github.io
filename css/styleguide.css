@@ -11,6 +11,7 @@
   --mabel: #d7edff;
   --masala: #3c3c3c;
   --picton-blue: #3ca5ff;
+  --picton-blue-2: #3ca5ffcc;
   --sail: #b5e3fe7d;
   --seagull: #87c7eb;
   --seagull-2: #86c6eb;
@@ -22,9 +23,9 @@
   --font-size-m: 16px;
   --font-size-s: 14px;
   --font-size-xl: 20px;
-  --font-size-xxl: 25px;
-  --font-size-xxxl: 26px;
-  --font-size-xxxxl: 30px;
+  --font-size-xxl: 26px;
+  --font-size-xxxl: 30px;
+  --font-size-xxxxl: 50px;
 
   --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
   --font-family-montserrat: "Montserrat", Helvetica;
@@ -35,7 +36,7 @@
 .roboto-normal-log-cabin-26px {
   color: var(--log-cabin);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -49,23 +50,23 @@
 .roboto-medium-black-30px {
   color: var(--black);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 500;
-}
-.roboto-medium-log-cabin-50px {
-  color: var(--log-cabin);
-  font-family: var(--font-family-roboto);
-  font-size: 50px;
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 500;
 }
 .roboto-normal-chetwode-blue-26px {
   color: var(--chetwode-blue);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
+}
+.roboto-medium-log-cabin-50px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
 }
 .roboto-medium-log-cabin-14px {
   color: var(--log-cabin);
@@ -88,26 +89,26 @@
   font-style: normal;
   font-weight: 400;
 }
-.roboto-medium-picton-blue-30px {
-  color: var(--picton-blue);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 500;
-}
-.opensans-semi-bold-black-30px {
-  color: var(--black-2);
-  font-family: var(--font-family-open_sans);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 600;
-}
 .opensans-normal-black-16px {
   color: var(--black-2);
   font-family: var(--font-family-open_sans);
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
+}
+.roboto-medium-picton-blue-30px {
+  color: var(--picton-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+.opensans-semi-bold-black-30px {
+  color: var(--black-2);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
 }
 .roboto-medium-masala-20px {
   color: var(--masala);
@@ -130,13 +131,6 @@
   font-style: normal;
   font-weight: 500;
 }
-.roboto-normal-chetwode-blue-16px {
-  color: var(--chetwode-blue);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
 .roboto-normal-fiord-16px {
   color: var(--fiord);
   font-family: var(--font-family-roboto);
@@ -151,10 +145,17 @@
   font-style: normal;
   font-weight: 400;
 }
+.roboto-normal-chetwode-blue-16px {
+  color: var(--chetwode-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
 .roboto-normal-black-30px {
   color: var(--black-2);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -182,14 +183,14 @@
 .montserrat-normal-black-30px {
   color: var(--black);
   font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
 .roboto-normal-log-cabin-26px-2 {
   color: var(--log-cabin);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-xxl);
 }
 .roboto-normal-fiord-20px {
   color: var(--fiord);
@@ -208,7 +209,7 @@
 .opensans-semi-bold-black-30px-2 {
   color: var(--black);
   font-family: var(--font-family-open_sans);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 600;
 }
@@ -239,6 +240,9 @@
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
+}
+.border-0-5px-picton-blue-2 {
+  border: 0.5px solid var(--picton-blue-2);
 }
 .border-0-5px-picton-blue {
   border: 0.5px solid var(--picton-blue);
