@@ -214,12 +214,12 @@ opacity: 0;transform: translate(0, 25px);
   top: 60px;
   width: 60px;
 }
-.about-me.animate-enter1 {
-  animation: animate-enter1-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.about-me.animate-enter2 {
+  animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter1-frames {
+@keyframes animate-enter2-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
