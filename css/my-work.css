@@ -194,14 +194,6 @@ transform: scale(1.1);
   top: 384px;
   width: 258px;
 }
-.my-work .gruppe-47-QlwNwD {
-  background-color: transparent;
-  height: 52px;
-  left: 1191px;
-  position: absolute;
-  top: 541px;
-  width: 258px;
-}
 .my-work .gruppe-maskieren-158-QlwNwD {
   background-color: transparent;
   height: 1680px;
@@ -317,6 +309,15 @@ transform: scale(1.1);
   top: 632px;
   width: 258px;
 }
+.my-work .logo-aro-QlwNwD {
+  background-color: transparent;
+  height: 52px;
+  left: 1191px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 258px;
+}
 .my-work .may-2021-QlwNwD {
   background-color: transparent;
   height: auto;
@@ -384,24 +385,6 @@ transform: scale(1.1);
   position: absolute;
   top: 119px;
   width: 99px;
-}
-.my-work .pfad-52-lr4V6H {
-  background-color: transparent;
-  bottom: 0px;
-  height: 24px;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  width: calc(100.00% - 5px);
-}
-.my-work .pfad-53-lr4V6H {
-  background-color: transparent;
-  height: 19px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
 }
 .my-work .rechteck-1688-QlwNwD {
   background: linear-gradient(344.47deg, rgba(255, 255, 255, 0.8) 29.52%, rgba(228, 229, 236, 0.8) 100%);
